@@ -3,7 +3,7 @@
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*xIXqf46yYonSXkUOWcOCvg.gif">
 
-- 🔭 I’m currently working on [Project Explainer](https://github.com/c2siorg/Project-Explainer)
+- 🔭 I’m currently working for Google **Summer of Code GSoC'24** in [Project Explainer](https://github.com/c2siorg/Project-Explainer) 
 
 - 🌱 I’m currently learning **PyTorch-Geometric,Neo4j,Graph-Based-Transformers**
 
